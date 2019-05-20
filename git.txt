@@ -1,0 +1,6 @@
+# Tao kho git o thu muc hien tai
+git init
+# Danh dau cac file de chuan bi tao commit
+git add
+# Tao commit
+git commit -m "Noi dung tin nhan"
